@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2> this is my first por</h2>
-<a href="index.php"> Home </a>
+<h2> This is About</h2>
+<a href="http://htmlpreview.github.io/?https://github.com/yibrah/MIT-Projects/master/index.php">Home</a>
 </body>
 </html>
