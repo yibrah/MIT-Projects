@@ -1,6 +1,6 @@
 <html>
 <body>
-  <h1> These are our services</h1>
-  <a href="index.php">Home</a>
+  <h2> These are our services</h2>
+  <a href="http://htmlpreview.github.io/?https://github.com/yibrah/MIT-Projects/master/index.php">Home</a>
 </body>
 </html>
