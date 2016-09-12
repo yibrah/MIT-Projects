@@ -5,5 +5,10 @@
   <a href="http://htmlpreview.github.io/?https://github.com/yibrah/MIT-Projects/master/about.php">About</a> | 
   <a href="http://htmlpreview.github.io/?https://github.com/yibrah/MIT-Projects/master/services.php">Services</a> | 
   <a href="http://htmlpreview.github.io/?https://github.com/yibrah/MIT-Projects/master/contact.php">Contact</a>
+  <br/>
+  <form class="form-horizontal" role="form" name='loginform' method="POST" action="http://htmlpreview.github.io/?https://github.com/yibrah/MIT-Projects/master/about.php" >
+    <input type="text" name="value" />
+    <input type="submit" name="login" value="Login"/>
+  </form>
 </body>
 </html>
